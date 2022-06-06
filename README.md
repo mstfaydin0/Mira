@@ -20,7 +20,7 @@ It also has the potential to manage the basic information need in the hospital w
 
 ## Installation
 
-**Then download these libraries and install manually:**
+**Clone with git**
 ```
 $ git clone https://github.com/mstfaydin0/Mira
 ```
